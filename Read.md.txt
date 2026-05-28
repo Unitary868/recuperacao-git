@@ -1,0 +1,4 @@
+ Recuperação de horas
+
+Este projeto serve para demonstrar o uso de Git local, Git Extensions e GitHub.
+Alteração feita no branch recuperacao-horas.
